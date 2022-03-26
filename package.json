@@ -7,11 +7,11 @@
   "license": "GNU AGPLv3",
   "dependencies": {
     "axios": "^0.26.1",
-    "discord.js": "^13.6.0",
+    "discord.js": "^12.5.1",
     "humanize-duration": "^3.27.1",
     "leading-zeroes": "^2.0.1",
     "module-alias": "^2.2.2",
-    "mongoose": "^6.2.7"
+    "mongoose": "^5.11.15"
   },
   "_moduleAliases": {
     "@root": ".",
